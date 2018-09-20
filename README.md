@@ -1,24 +1,7 @@
-# README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Build form
 
-Things you may want to cover:
+- Route -> search_stocks
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Controller -> action  - stock_controller.rb search_stocks
