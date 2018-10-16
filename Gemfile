@@ -18,7 +18,7 @@ gem 'stock_quote', '~> 2.0.0'
 gem 'bootstrap-sass'
 
 gem "table_print"
-
+gem "font-awesome-rails"
 # Use sqlite3 as the database for Active Record
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
